@@ -1,0 +1,15 @@
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\bin\Debug\net6.0\UserCatalog.Data.deps.json
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\bin\Debug\net6.0\UserCatalog.Data.dll
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\bin\Debug\net6.0\UserCatalog.Data.pdb
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\bin\Debug\net6.0\UserCatalog.Model.dll
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\bin\Debug\net6.0\UserCatalog.Model.pdb
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.AssemblyInfo.cs
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.csproj.CopyComplete
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.dll
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\refint\UserCatalog.Data.dll
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\UserCatalog.Data.pdb
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Data\obj\Debug\net6.0\ref\UserCatalog.Data.dll

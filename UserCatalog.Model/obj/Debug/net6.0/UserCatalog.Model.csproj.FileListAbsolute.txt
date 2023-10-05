@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\bin\Debug\net6.0\UserCatalog.Model.deps.json
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\bin\Debug\net6.0\UserCatalog.Model.dll
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\bin\Debug\net6.0\UserCatalog.Model.pdb
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\UserCatalog.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\UserCatalog.Model.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\UserCatalog.Model.AssemblyInfo.cs
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\UserCatalog.Model.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\UserCatalog.Model.dll
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\refint\UserCatalog.Model.dll
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\UserCatalog.Model.pdb
+C:\Users\super\source\repos\UserCatalog\UserCatalog.Model\obj\Debug\net6.0\ref\UserCatalog.Model.dll
